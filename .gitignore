@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+TestResults/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# IDE and user-specific files
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
